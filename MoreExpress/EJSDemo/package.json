@@ -1,0 +1,15 @@
+{
+  "name": "more_express",
+  "version": "1.0.0",
+  "description": "More Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tapan Chudasama",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
