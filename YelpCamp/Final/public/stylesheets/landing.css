@@ -41,7 +41,7 @@ h1 {
     background-repeat: no-repeat;
     opacity: 0;
     z-index: 0;
-    animation: imageAnimation 50s linear infinite;
+    animation: imageAnimation 60s linear infinite;
 }
 
 .slideshow li:nth-child(1) {
@@ -50,22 +50,22 @@ h1 {
 
 .slideshow li:nth-child(2) {
     background-image: url(http://i.imgur.com/SBEmFpv.jpg);
-    animation-delay: 10s;
+    animation-delay: 15s;
 }
 
 .slideshow li:nth-child(3) {
     background-image: url(http://i.imgur.com/emvhOnb.jpg);
-    animation-delay: 20s;
+    animation-delay: 30s;
 }
 
 .slideshow li:nth-child(4) {
     background-image: url(http://i.imgur.com/2LSMCmJ.jpg);
-    animation-delay: 30s;
+    animation-delay: 45s;
 }
 
 .slideshow li:nth-child(5) {
     background-image: url(http://i.imgur.com/TVGe0Ef.jpg);
-    animation-delay: 40s;
+    animation-delay: 60s;
 }
 
 @keyframes imageAnimation {
