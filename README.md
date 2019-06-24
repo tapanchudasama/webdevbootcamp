@@ -1,3 +1,3 @@
 # webdevbootcamp
 
-All files from Colt Steels's The Web Developer Bootcamp
+All files from Colt Steele's The Web Developer Bootcamp
